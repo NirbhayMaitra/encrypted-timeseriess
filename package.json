@@ -1,0 +1,20 @@
+{
+  "name": "syook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "influx": "^5.9.3",
+    "mongodb": "4.1",
+    "socket.io": "^4.7.2"
+  }
+}
